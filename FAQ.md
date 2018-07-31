@@ -52,3 +52,5 @@ Crait软件2017年底推出，公司在美国伊利诺伊州，是一款面向�
 推荐加入自由广场群 群主是我的好友 教人翻墙无数 被迫流亡海外：https://share.craitapp.com/inv/1532845444iYBisL
 ## 我的XX手机应用商店搜不到Crait?
 官网有所有平台的下载链接：http://craitapp.com 
+## 如何联系每日油兔？
+电报: https://t.me/wanggonging 推特: https://twitter.com/WangGonging 电邮：wanggonging@gmail.com
