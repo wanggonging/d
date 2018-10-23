@@ -42,6 +42,6 @@
 
 学会翻墙后，请学会使用电报软件以便更方便地获取更多翻墙服务器。安装包可在此下载（22MB）：
 
-<a href="https://github.com/wangonging/d/raw/9/c/tsetup.1.4.3.exe"><img src="c/tsetup.png"/></a>
+<a href="https://github.com/wanggonging/d/raw/9/c/tsetup.1.4.3.exe"><img src="c/tsetup.png"/></a>
 
 电报注册需要电话号码接受短信，并打开梯子翻墙。最好是用TextNow或者叮咚去注册一个北美的假电话号码，然后用这个号码注册telegram。如果不会注册，用大陆号码也可以，反正别人看不见你的号码的。 TextNow注册号码是免费的，但是全英文，看不懂的话就用翻译软件，不难。叮咚全中文，但是号码一年要13元人民币，微信支付宝都可支付。注册登录成功后先搜索@zh_CN进入中文汉化频道汉化您的界面，再到设置里面添加一个唯一用户名，把用户名私发给微信号wanggonging，拉您进群。 
