@@ -1,0 +1,65 @@
+<html><head>
+		<style type="text/css">
+		img { width:auto; max-width:100%; height: auto ; }
+		</style>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		</head><body>
+<script type="text/javascript">
+	function is_weixin() {
+	    var ua = navigator.userAgent.toLowerCase();
+	    if (ua.match(/MicroMessenger/i) == "micromessenger") {
+	        return true;
+	    } else {
+	        return false;
+	    }
+	}
+	var isWeixin = is_weixin();
+	var winHeight = typeof window.innerHeight != 'undefined' ? window.innerHeight : document.documentElement.clientHeight;
+	function loadHtml(){
+		var div = document.createElement('div');
+		div.id = 'weixin-tip';
+		div.innerHTML = '<p><img src="/jump.jpg" alt="微信打开"/></p>';
+		document.body.appendChild(div);
+	}
+
+	function loadStyleText(cssText) {
+        var style = document.createElement('style');
+        style.rel = 'stylesheet';
+        style.type = 'text/css';
+        try {
+            style.appendChild(document.createTextNode(cssText));
+        } catch (e) {
+            style.styleSheet.cssText = cssText; //ie9以下
+        }
+    var head=document.getElementsByTagName("head")[0]; //head标签之间加上style样式
+    head.appendChild(style);
+    }
+    var cssText = "#weixin-tip{position: fixed; left:0; top:0; background: rgba(0,0,0,0.8); filter:alpha(opacity=80); z-index: 100;} #weixin-tip p{text-align: center; margin-top: 5%; padding:0 5%;}";
+	if(isWeixin){
+		loadHtml();
+		loadStyleText(cssText);
+	}
+</script>
+[安卓翻墙] | <a href="/bh/b">苹果翻墙</a> | <a href="/bh/c">电脑翻墙</a> | <a href="/bh">电脑网盘"</a>
+<h2>安卓手机翻墙步骤</h2>
+<h4>第一步：在手机的设置里允许安装未知来源应用</h4>
+安卓手机打开这个开关，才允许安装APK。打开的方法很容易在百度上搜到，如： <a href="https://jingyan.baidu.com/article/e75aca850f154c142edac6d0.html">https://jingyan.baidu.com/article/e75aca850f154c142edac6d0.html</a>
+<h4>第二步：安装影梭APK</h4>
+<a href="Shadowsocks_v4.5.7_apkpure.com.apk">点下图下载、安装影梭APK(5MB - 下载需要一定时间，请耐心等待)<br><img src="ss.jpg" /></a>
+<h4>第三步：打开影梭，点右上角加号，添加一个配置文件</h4>
+<li>服务器：每日油兔IP地址</li>
+<li>远程端口：2333</li>
+<li>密码：doub.io</li>
+<li>加密方式：AES-256-CFB</li>
+<h4>第四步：在主屏幕，点击选中添加的配置文件行，然后点右下角的纸飞机</h4>
+提示VPN权限时，选择允许。纸飞机变绿表示翻墙成功。可以用油管的网址<a href="http://youtube.com">YouTube.com</a>测试梯子是否正常工作。
+<h4>附录</h4>
+<li><a href="g.apk">GO谷歌安装器APK - 下载谷歌应用，使用谷歌搜索，注册Gmail<br><img src="g.jpg"/></a></li>
+<li><a href="Telegram_v4.8.6_apkpure.com.apk">电报加密聊天软件（Telegram）APK (16MB)<br><img src="telegram.jpg"/></a></li>
+<li>学会翻墙后，请安装上面的电报加密聊天软件（Telegram）。安装电报无需翻墙，但注册和使用需要翻墙。通过电报您可以自助获取大量免费/收费影梭代理，并和其他翻墙出来的同道进行更自由的交流。
+<li>电报注册需要电话号码接受短信，并打开梯子翻墙。最好是用TextNow或者叮咚去注册一个北美的假电话号码，然后用这个号码注册telegram。如果不会注册，用大陆号码也可以，反正别人看不见你的号码的。 TextNow注册号码是免费的，但是全英文，看不懂的话就用翻译软件，不难。叮咚全中文，但是号码一年要13元人民币，微信支付宝都可支付。注册登录成功后先搜索@zh_CN进入中文汉化频道汉化您的界面，再到设置里面添加一个唯一用户名，把用户名私发给微信号wanggonging，拉您进群。
+</body>
+</html>
+
+
