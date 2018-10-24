@@ -29,7 +29,8 @@
 
 <img src="c/server.png"/>
 
-### 第七步：打开浏览器，访问YouTube.com测试翻墙是否成功。您还可以使用菜单中的服务器－服务器连接统计观察翻墙服务器的速度
+### 第七步：打开浏览器，访问<a href="https://www.youtube.com">YouTube.com</a>测试翻墙是否成功。您还可以使用菜单中的服务器－服务器连接统计观察翻墙服务器的速度
+* 点这个地址查看翻墙后的导航： https://fanqianghou.com/
 
 <img src="c/youtube.png"/>
 
