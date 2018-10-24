@@ -12,7 +12,9 @@
 * 密码：**doub.io**
 * 加密方式：**AES-256-CFB**
 ### 第四步：在主屏幕，点击选中添加的配置文件行，然后点右下角的纸飞机
-提示VPN权限时，选择允许（Allow）。纸飞机变绿表示翻墙成功。可以用油管的网址<a href="https://youtube.com">YouTube.com</a>测试梯子是否正常工作。
+* 提示VPN权限时，选择允许（Allow）。
+* 纸飞机变绿表示翻墙成功。可以用油管的网址<a href="https://youtube.com">YouTube.com</a>测试梯子是否正常工作。
+* 再点一下纸飞机撤下梯子，恢复未翻墙状态。
 ### 第五步：在油兔网址更换时，点击配置文件行右侧的铅笔图标，进入配置文件设置页面，再点击服务器，输入新网址。确认，再保存。
 ## 附录
 ### <a href="https://github.com/wanggonging/d/raw/9/a/g.apk">GO谷歌安装器APK - 下载谷歌应用，使用谷歌搜索，注册Gmail<br><img src="a/g.jpg"/></a>
