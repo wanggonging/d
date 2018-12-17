@@ -131,8 +131,11 @@ http://www.imagemagick.org + https://fukuchi.org/works/qrencode/
 ## 每日油兔如何将长视频压缩得如此小？
 视频: 每日油兔使用ffmpeg默认的H.264视频压缩引擎并使用了“-crf 35”参数使视频流在质量可以接受的情况下大小变得很小。之前上传微信群时使用了压缩率更高的"-crf 40"。管理员可以根据网站的负载和视频的可接受程度在30-40之间随时调整。
 音频：由于所收录的大部分视频画面变化不大，所以音频所占用的空间往往比视频还大。为了将文件压缩的更小，每日油兔对音频使用了ffmpeg的“-b:a 20k -ac 1 -ar 8000”参数（单声道，20k, 8k采样率)。以上参数往往可以将1小时的YouTube视频压缩到30MB以下，而且效果不差。
+```
+ffmpeg -i input.mp4 -y -crf 35 -strict -2 -b:a 20k -ac 1 -ar 8000 -r 10 output.mp4
+```
 ## 每日油兔有源代码吗？
-这里存放了每日油兔的自动下载压缩YouTube视频的引擎源码：https://github.com/wanggonging/wechatvideo
+这里存放了每日油兔的自动下载压缩YouTube视频的引擎源码：https://github.com/wanggonging/carrot
 
 # 电报问答
 
