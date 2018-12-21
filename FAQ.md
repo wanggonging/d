@@ -161,6 +161,7 @@ ffmpeg -i input.mp4 -y -crf 35 -strict -2 -b:a 20k -ac 1 -ar 8000 -r 10 output.m
 ```
 @xinrenbaodao 电报新人报道
 @ytdaily 每日油兔YouTube镜像
+@wangzi8888888 皇子金曲群
 @xinjiayuan 我们的家园
 @BooksThatMakeYouThink 文杏馆
 @ShadowsocksRssr SSR节点国际共享
@@ -179,6 +180,7 @@ ffmpeg -i input.mp4 -y -crf 35 -strict -2 -b:a 20k -ac 1 -ar 8000 -r 10 output.m
 @programthinkreader 编程随想读者群
 @politicJokeZhao 爆笑祖国 · 厉害了赵的国
 @duanzitg 内涵段子：人人都来发段子
+@ruanyuww 碎琼乱玉 背风而行
 ```
 
 ## 如何找到更多的电报群?
