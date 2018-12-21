@@ -162,6 +162,7 @@ ffmpeg -i input.mp4 -y -crf 35 -strict -2 -b:a 20k -ac 1 -ar 8000 -r 10 output.m
 @xinrenbaodao 电报新人报道
 @ytdaily 每日油兔YouTube镜像
 @wangzi8888888 皇子金曲群
+@anquanshangwang 安全上网
 @xinjiayuan 我们的家园
 @BooksThatMakeYouThink 文杏馆
 @ShadowsocksRssr SSR节点国际共享
